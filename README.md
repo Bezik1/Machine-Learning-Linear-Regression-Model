@@ -7,7 +7,7 @@ Type in console `pip install`
 ## :hammer_and_wrench: Commands
 To run application type `py index.py`
 
-## ::heavy_check_mark:: Project Status
+## :heavy_check_mark: Project Status
 Project deployed successfully
 
 ## :triangular_ruler: Math
